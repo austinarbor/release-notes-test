@@ -11,4 +11,5 @@ repositories {
 
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter-web:3.2.2")
+    implementation("dev.aga.sqlite:sqlite-jdbc:3.45.0.0")
 }
